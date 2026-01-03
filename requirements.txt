@@ -1,0 +1,10 @@
+pdfplumber
+PyPDF2
+sentence-transformers
+torch
+faiss-cpu
+numpy
+pandas
+tqdm
+beautifulsoup4
+ebooklib
