@@ -1,4 +1,10 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
-venv/
-.env
+*.pyc
+
+# Dados grandes / gerados
+data/*.npy
+
+# Documentos com direitos autorais
+data/documents/*.pdf
+data/documents/*.epub
