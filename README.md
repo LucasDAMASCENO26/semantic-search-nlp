@@ -25,6 +25,10 @@ mesmo quando não compartilham as mesmas palavras.
 Como exemplo prático, este projeto utiliza o livro **_Deuses Americanos_**, de
 **Neil Gaiman**, fornecido em formato **PDF**.
 
+⚠️ **Observação importante:**  
+Por questões de **direitos autorais**, arquivos PDF/EPUB **não são incluídos neste
+repositório**.
+
 A pipeline foi projetada de forma **genérica**, podendo ser aplicada a qualquer
 arquivo PDF que contenha texto extraível, como:
 
@@ -75,3 +79,8 @@ semantic-search-nlp/
 │
 ├── requirements.txt
 └── README.md
+
+Para executar o projeto, basta adicionar um PDF na pasta:
+
+```text
+data/documents/
